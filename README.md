@@ -1,4 +1,4 @@
-# Assighment-2
+# Assignment-2
 RAG (Retrieval-Augmented Generation) Chatbot
 
 1. How to Install and Run the System Locally
